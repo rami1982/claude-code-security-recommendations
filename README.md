@@ -28,10 +28,10 @@
    A. Deny read to: keys / passwords, git (/version control) info, .gitignore, claude hooks, hidden files and hidden folders unless instructed directly (or in less restricted mode), files and folders that are not in working folder or its subfolders
    B. Deny write to: all denied read folders & files, files and folders that are not in working folder or its subfolders
 
-     8\. Zero-trust execution model (monitor all suspicious activities in runtime, eg: with falco)
-     9\. Store kays & passwords separately from dev agent & security test agent
-     10\. Run always in containers, including: development agent, security test agent, test agent, execution
-     11\. Only Human approves commits, run push and runs the production system
+8. Zero-trust execution model (monitor all suspicious activities in runtime, eg: with falco)
+9. Store kays & passwords separately from dev agent & security test agent
+10. Run always in containers, including: development agent, security test agent, test agent, execution
+11. Only Human approves commits, run push and runs the production system
 
 
 In addition to this file, please look at:

@@ -35,7 +35,7 @@ C. Work on separate git repo or at least branch every session
 
 
 In addition to this file, please look at:
-[LICESNE] and [DISCLAIMER.md]
+[LICESNE](https://github.com/rami1982/claude-code-security-recommendations/blob/main/LICENSE) and [DISCLAIMER.md](https://github.com/rami1982/claude-code-security-recommendations/blob/main/DISCLAIMER.md)
 
 [Reference of the chat with Claude that helped me to create above instructions](https://claude.ai/share/7933457a-3425-48b6-b577-01f862451cc5)
 

@@ -30,7 +30,7 @@
 
 8. Zero-trust execution model (monitor all suspicious activities in runtime, eg: with falco)
 9. Store kays & passwords separately from dev agent & security test agent
-10. Run always in containers, including: development agent, security test agent, test agent, execution
+10. Run always in containers, including: development agent, security test agent, test agent, execution (if possible, seperate environments and agents prompts)
 11. Only Human approves commits, run push and runs the production system
 
 
